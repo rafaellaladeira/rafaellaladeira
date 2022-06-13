@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Rafaella
 
-<!--
-**rafaellaladeira/rafaellaladeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ✨ _special_ ✨ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,9 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Fun fact: I have 5 dogs.
 - ⚡ Fun fact: I have 5 dogs.
--->
-
-
+<br>
 # Tech Stack:
 
 ![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
