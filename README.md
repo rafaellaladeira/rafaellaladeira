@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
  # Socials :
   
-  <div align="center">
+  <div>
     <a href="https://www.instagram.com/rafaella.ladeira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   <a href="https://www.linkedin.com/in/rafaella-ladeira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </div>
