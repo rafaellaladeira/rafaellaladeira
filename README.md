@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 
 
-[! [Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (https://instagram.com/https://www.instagram.com/rafaellaladeira/)
+[! [Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (https://www.instagram.com/rafaellaladeira/)
 [! [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://linkedin.com/in/https://www.linkedin.com/in/rafaella-ladeira/)
