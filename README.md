@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+! [instagram] https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (https://instagram.com/https://www.instagram.com/rafaellaladeira/)
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
