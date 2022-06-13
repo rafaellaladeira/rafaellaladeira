@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/rafaellaladeira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellaladeira&show_icons=true&theme=radical"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellaladeira&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaladeira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
