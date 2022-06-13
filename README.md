@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Tech Stack:
 
-[![React] (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaladeira)](https://github.com/rafaellaladeira/rafaellaladeira)
 
