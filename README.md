@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/rafaellaladeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellaladeira&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaladeira&layout=compact&langs_count=7&theme=radical"/>
-  <div> Socials: </div>
+  <div height:100px text-decoration:none> Socials: </div>
   <a href="https://www.instagram.com/rafaella.ladeira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
     
 </div>
