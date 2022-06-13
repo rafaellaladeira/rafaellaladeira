@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I have 5 dogs.
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaladeira)](https://github.com/rafaellaladeira/rafaellaladeira)
+
 # Tech Stack:
 
 ![React] (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
