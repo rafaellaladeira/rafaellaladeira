@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Tech Stack:
 
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![React] (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
