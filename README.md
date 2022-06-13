@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaladeira&show_icons=true&theme=radical)
 <div align="center">
   <a href="https://github.com/rafaellaladeira">
-  <img height="180em" src="![Anurag's GitHub stats]https://github-readme-stats.vercel.app/api?username=rafaellaladeira&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaladeira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaladeira&show_icons=true&theme=radical)
+
 
 ## Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafaella.ladeira/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaella-ladeira/) 
