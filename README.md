@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Rafaella
 
 Olá, meu nome é Rafaella, nascida e criada em BH. 
-Sou graduada em Engenharia de Energia, e pós graduada em Gestão Estratégica de Processos Negócios, ambas pela PUC Minas. Atualmente, estou migrando para a área de tecnologia, sou estudante de Desenvolvimento Web FullStack na Trybe, em que já finalizei o módulo de Front-end, e hoje me encontro no módulo de Back-end.
+Sou graduada em Engenharia de Energia, e pós graduada em Gestão Estratégica de Processos Negócios, ambas pela PUC Minas. Atualmente, estou migrando para a área de tecnologia, sou estudante de Desenvolvimento Web FullStack na Trybe, em que já finalizei o módulo de Front-end, e hoje estou terminando o  módulo de Back-end.
 Estou em busca de uma oportunidade como Desenvolvedora Web, em que espero contribuir de forma produtiva e gerar impacto positivo nas minhas atividades. Meu principal objetivo é alcançar/atender o máximo de pessoas, resolver problemas reais, e partindo sempre da humanização e valorização das pessoas.
 
 - 😄 Fato curioso sobre mim: AMO esportes e tenho 5 cachorros.
